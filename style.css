@@ -262,7 +262,7 @@ h2 {
 
 .course__img {
     width: 400px;
-
+  overflow: hidden;
     transition: 0.3s;
     border-radius: 10px;
 }
